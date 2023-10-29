@@ -1,0 +1,18 @@
+.p-10{
+    padding: 5rem !important;
+}
+.bg-green{
+    background-color: rgb(26, 255, 0);
+}
+.background{
+    background-size: cover;
+    min-height: 60vh;
+}
+.mt-a{
+    margin-left: 100px;
+}
+
+.p-1{
+    margin-left: 100px;
+}
+
